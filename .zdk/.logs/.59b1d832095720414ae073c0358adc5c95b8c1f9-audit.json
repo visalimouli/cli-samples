@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "/Users/visali-20043/Documents/release_items/zdk_cli_sample_repos/cli-samples/.zdk/.logs/.59b1d832095720414ae073c0358adc5c95b8c1f9-audit.json",
+    "files": [
+        {
+            "date": 1723098553764,
+            "name": "/Users/visali-20043/Documents/release_items/zdk_cli_sample_repos/cli-samples/.zdk/.logs/ZDK-CLI-2024-08-08.log",
+            "hash": "03d651521e7453499798212b0bf327068ea346a99f9c2646fa57a3a073b4f490"
+        }
+    ],
+    "hashType": "sha256"
+}
